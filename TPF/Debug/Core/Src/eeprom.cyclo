@@ -1,0 +1,4 @@
+../Core/Src/eeprom.c:15:13:eeprom_write_if_changed	2
+../Core/Src/eeprom.c:23:9:eeprom_read_byte	1
+../Core/Src/eeprom.c:30:6:eeprom_save_config	5
+../Core/Src/eeprom.c:61:6:eeprom_load_config	8
