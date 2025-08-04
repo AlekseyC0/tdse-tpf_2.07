@@ -1,0 +1,9 @@
+../app/src/task_adc.c:50:13:actualizar_temperatura_actual	16	static
+../app/src/task_adc.c:62:13:joystick_event	32	static
+../app/src/task_adc.c:90:6:joystick_arriba	8	static
+../app/src/task_adc.c:91:6:joystick_abajo	8	static
+../app/src/task_adc.c:92:6:joystick_derecha	8	static
+../app/src/task_adc.c:93:6:joystick_izquierda	8	static
+../app/src/task_adc.c:95:6:potenciometro_test	4	static
+../app/src/task_adc.c:101:6:task_adc_update	24	static,ignoring_inline_asm
+../app/src/task_adc.c:134:6:task_adc_init	24	static,ignoring_inline_asm

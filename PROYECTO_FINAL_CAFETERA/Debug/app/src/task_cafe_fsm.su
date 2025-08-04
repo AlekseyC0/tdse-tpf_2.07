@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../app/src/task_cafe_fsm.c:87:6:task_cafe_fsm_init	24	static,ignoring_inline_asm
+../app/src/task_cafe_fsm.c:100:13:sistema_autotest_ok	8	static
+../app/src/task_cafe_fsm.c:109:10:detectar_evento	8	static
+../app/src/task_cafe_fsm.c:123:13:fsm_off_handle	16	static
+../app/src/task_cafe_fsm.c:185:13:fsm_diagnostico_handle	16	static
+../app/src/task_cafe_fsm.c:206:13:fsm_fabricante_handle	32	static
+../app/src/task_cafe_fsm.c:268:13:fsm_stock_handle	104	static
+../app/src/task_cafe_fsm.c:383:13:fsm_temp_deseada_handle	40	static
+../app/src/task_cafe_fsm.c:449:13:fsm_menu_principal_handle	40	static
+../app/src/task_cafe_fsm.c:489:13:fsm_seleccion_cafe_handle	72	static
+../app/src/task_cafe_fsm.c:618:13:fsm_personal_handle	56	static
+../app/src/task_cafe_fsm.c:731:13:fsm_brewing_handle	24	static
+../app/src/task_cafe_fsm.c:859:13:fsm_save_energy_handle	16	static,ignoring_inline_asm
+../app/src/task_cafe_fsm.c:884:13:fsm_error_handle	16	static
+../app/src/task_cafe_fsm.c:912:6:cafe_fsm_update_core	16	static
+../app/src/task_cafe_fsm.c:949:6:task_cafe_fsm_update	24	static,ignoring_inline_asm

@@ -1,0 +1,9 @@
+../app/src/task_lcd.c:41:13:lcd_send_cmd	1
+../app/src/task_lcd.c:52:13:lcd_send_data	1
+../app/src/task_lcd.c:63:13:lcd_put_cur	2
+../app/src/task_lcd.c:69:13:lcd_init	1
+../app/src/task_lcd.c:94:6:lcd_print_if_changed	7
+../app/src/task_lcd.c:117:6:lcd_fsm_update	8
+../app/src/task_lcd.c:149:6:lcd_test	1
+../app/src/task_lcd.c:161:6:task_lcd_init	1
+../app/src/task_lcd.c:171:6:task_lcd_update	4

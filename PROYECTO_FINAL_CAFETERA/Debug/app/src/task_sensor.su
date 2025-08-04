@@ -1,0 +1,7 @@
+../app/src/task_sensor.c:50:6:task_sensor_ultrasonico_init	48	static,ignoring_inline_asm
+../app/src/task_sensor.c:74:6:task_sensor_ultrasonico_update	24	static,ignoring_inline_asm
+../app/src/task_sensor.c:106:6:HCSR04_Trigger	16	static
+../app/src/task_sensor.c:122:6:HCSR04_Ready	4	static
+../app/src/task_sensor.c:127:10:HCSR04_GetLast	4	static
+../app/src/task_sensor.c:134:6:HAL_TIM_IC_CaptureCallback	24	static
+../app/src/task_sensor.c:163:6:sensor_ultrasonico_test	16	static

@@ -1,0 +1,7 @@
+../app/src/task_botones.c:46:23:button_process	7
+../app/src/task_botones.c:81:6:boton1_presionado	1
+../app/src/task_botones.c:82:6:boton2_presionado	1
+../app/src/task_botones.c:83:6:boton3_presionado	1
+../app/src/task_botones.c:85:6:boton1_falling_edge	3
+../app/src/task_botones.c:95:6:task_botones_update	7
+../app/src/task_botones.c:141:6:task_botones_init	1

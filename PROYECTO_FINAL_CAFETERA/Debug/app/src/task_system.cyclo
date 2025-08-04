@@ -1,0 +1,9 @@
+../app/src/task_system.c:58:6:eeprom_test	3
+../app/src/task_system.c:73:13:aplicar_config	1
+../app/src/task_system.c:88:6:eeprom_load_config	9
+../app/src/task_system.c:113:6:eeprom_start_save	2
+../app/src/task_system.c:137:6:eeprom_save_update	7
+../app/src/task_system.c:172:6:eeprom_start_read	2
+../app/src/task_system.c:183:6:eeprom_update	7
+../app/src/task_system.c:219:6:task_system_init	2
+../app/src/task_system.c:239:6:task_system_update	4

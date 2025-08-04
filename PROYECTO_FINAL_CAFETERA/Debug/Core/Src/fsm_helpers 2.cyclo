@@ -1,0 +1,13 @@
+../Core/Src/fsm_helpers.c:29:6:boton_azul_presionado	1
+../Core/Src/fsm_helpers.c:33:6:cafe_listo	1
+../Core/Src/fsm_helpers.c:37:6:joystick_arriba	4
+../Core/Src/fsm_helpers.c:49:6:joystick_derecha	4
+../Core/Src/fsm_helpers.c:57:6:joystick_izquierda	4
+../Core/Src/fsm_helpers.c:65:6:joystick_abajo	4
+../Core/Src/fsm_helpers.c:122:6:button_update	5
+../Core/Src/fsm_helpers.c:144:6:boton1_presionado	1
+../Core/Src/fsm_helpers.c:148:6:boton2_presionado	1
+../Core/Src/fsm_helpers.c:152:6:mostrar_estado_leds	7
+../Core/Src/fsm_helpers.c:165:6:actualizar_temperatura_actual	2
+../Core/Src/fsm_helpers.c:174:6:boton1_falling_edge	3
+../Core/Src/fsm_helpers.c:183:6:sistema_autotest_ok	10

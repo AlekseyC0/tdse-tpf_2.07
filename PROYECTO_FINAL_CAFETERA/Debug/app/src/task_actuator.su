@@ -1,0 +1,7 @@
+../app/src/task_actuator.c:44:6:task_actuator_init	24	static,ignoring_inline_asm
+../app/src/task_actuator.c:60:6:task_actuator_update	24	static,ignoring_inline_asm
+../app/src/task_actuator.c:93:6:led_on	16	static
+../app/src/task_actuator.c:104:6:led_off	16	static
+../app/src/task_actuator.c:115:6:led_toggle	16	static
+../app/src/task_actuator.c:126:6:test_leds	24	static
+../app/src/task_actuator.c:153:6:mostrar_estado_leds	16	static

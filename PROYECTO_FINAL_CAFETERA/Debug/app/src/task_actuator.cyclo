@@ -1,0 +1,7 @@
+../app/src/task_actuator.c:44:6:task_actuator_init	1
+../app/src/task_actuator.c:60:6:task_actuator_update	4
+../app/src/task_actuator.c:93:6:led_on	5
+../app/src/task_actuator.c:104:6:led_off	5
+../app/src/task_actuator.c:115:6:led_toggle	5
+../app/src/task_actuator.c:126:6:test_leds	7
+../app/src/task_actuator.c:153:6:mostrar_estado_leds	6

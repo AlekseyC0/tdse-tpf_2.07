@@ -1,4 +1,0 @@
-../Core/Src/eeprom.c:15:13:eeprom_write_if_changed	40	static
-../Core/Src/eeprom.c:23:9:eeprom_read_byte	40	static
-../Core/Src/eeprom.c:30:6:eeprom_save_config	24	static
-../Core/Src/eeprom.c:61:6:eeprom_load_config	16	static

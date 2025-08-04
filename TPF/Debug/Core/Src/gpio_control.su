@@ -1,9 +1,0 @@
-../Core/Src/gpio_control.c:3:6:led_on	16	static
-../Core/Src/gpio_control.c:12:6:led_off	16	static
-../Core/Src/gpio_control.c:21:6:led_toggle	16	static
-../Core/Src/gpio_control.c:30:6:led_wave_effect	8	static
-../Core/Src/gpio_control.c:56:6:led_soft_off	24	static
-../Core/Src/gpio_control.c:72:6:gpio_pin_on	16	static
-../Core/Src/gpio_control.c:76:6:gpio_pin_off	16	static
-../Core/Src/gpio_control.c:80:6:gpio_pins_on	16	static
-../Core/Src/gpio_control.c:84:6:gpio_pins_off	16	static

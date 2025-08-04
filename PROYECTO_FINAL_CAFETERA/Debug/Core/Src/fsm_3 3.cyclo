@@ -1,0 +1,10 @@
+../Core/Src/fsm_3.c:35:6:joystick_derecha	4
+../Core/Src/fsm_3.c:48:6:joystick_arriba	4
+../Core/Src/fsm_3.c:60:6:debounce	5
+../Core/Src/fsm_3.c:77:6:cafe_listo	1
+../Core/Src/fsm_3.c:81:6:boton_azul_presionado	1
+../Core/Src/fsm_3.c:85:6:boton_azul_sostenido	4
+../Core/Src/fsm_3.c:100:6:boton1_presionado	1
+../Core/Src/fsm_3.c:104:6:mostrar_estado_leds	5
+../Core/Src/fsm_3.c:117:6:actualizar_temperatura_actual	2
+../Core/Src/fsm_3.c:126:6:fsm_update	45

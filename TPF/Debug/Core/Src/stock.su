@@ -1,3 +1,0 @@
-../Core/Src/stock.c:24:6:check_stock	16	static
-../Core/Src/stock.c:33:6:descontar_stock	16	static
-../Core/Src/stock.c:43:6:stock_reset	4	static

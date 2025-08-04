@@ -1,0 +1,9 @@
+../app/src/task_system.c:58:6:eeprom_test	32	static
+../app/src/task_system.c:73:13:aplicar_config	16	static
+../app/src/task_system.c:88:6:eeprom_load_config	40	static
+../app/src/task_system.c:113:6:eeprom_start_save	24	static
+../app/src/task_system.c:137:6:eeprom_save_update	24	static
+../app/src/task_system.c:172:6:eeprom_start_read	4	static
+../app/src/task_system.c:183:6:eeprom_update	24	static
+../app/src/task_system.c:219:6:task_system_init	24	static,ignoring_inline_asm
+../app/src/task_system.c:239:6:task_system_update	24	static,ignoring_inline_asm

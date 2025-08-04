@@ -1,0 +1,2 @@
+../Core/Src/eeprom.c:101:6:eeprom_save_config	2
+../Core/Src/eeprom.c:123:6:eeprom_load_config	9

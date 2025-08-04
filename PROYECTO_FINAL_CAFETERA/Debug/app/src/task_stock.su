@@ -1,0 +1,6 @@
+../app/src/task_stock.c:30:6:check_stock	16	static
+../app/src/task_stock.c:42:6:descontar_stock	16	static
+../app/src/task_stock.c:54:6:check_stock_receta	16	static
+../app/src/task_stock.c:63:6:descontar_stock_receta	16	static
+../app/src/task_stock.c:72:9:get_stock	16	static
+../app/src/task_stock.c:83:6:stock_reset	4	static

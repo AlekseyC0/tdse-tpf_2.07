@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	1
+../app/src/task_cafe_fsm.c:87:6:task_cafe_fsm_init	1
+../app/src/task_cafe_fsm.c:100:13:sistema_autotest_ok	5
+../app/src/task_cafe_fsm.c:109:10:detectar_evento	10
+../app/src/task_cafe_fsm.c:123:13:fsm_off_handle	13
+../app/src/task_cafe_fsm.c:185:13:fsm_diagnostico_handle	2
+../app/src/task_cafe_fsm.c:206:13:fsm_fabricante_handle	15
+../app/src/task_cafe_fsm.c:268:13:fsm_stock_handle	22
+../app/src/task_cafe_fsm.c:383:13:fsm_temp_deseada_handle	10
+../app/src/task_cafe_fsm.c:449:13:fsm_menu_principal_handle	7
+../app/src/task_cafe_fsm.c:489:13:fsm_seleccion_cafe_handle	22
+../app/src/task_cafe_fsm.c:618:13:fsm_personal_handle	22
+../app/src/task_cafe_fsm.c:731:13:fsm_brewing_handle	28
+../app/src/task_cafe_fsm.c:859:13:fsm_save_energy_handle	4
+../app/src/task_cafe_fsm.c:884:13:fsm_error_handle	7
+../app/src/task_cafe_fsm.c:912:6:cafe_fsm_update_core	15
+../app/src/task_cafe_fsm.c:949:6:task_cafe_fsm_update	4

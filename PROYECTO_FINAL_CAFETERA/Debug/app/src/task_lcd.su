@@ -1,0 +1,9 @@
+../app/src/task_lcd.c:41:13:lcd_send_cmd	32	static
+../app/src/task_lcd.c:52:13:lcd_send_data	32	static
+../app/src/task_lcd.c:63:13:lcd_put_cur	24	static
+../app/src/task_lcd.c:69:13:lcd_init	8	static
+../app/src/task_lcd.c:94:6:lcd_print_if_changed	40	static
+../app/src/task_lcd.c:117:6:lcd_fsm_update	16	static
+../app/src/task_lcd.c:149:6:lcd_test	8	static
+../app/src/task_lcd.c:161:6:task_lcd_init	24	static,ignoring_inline_asm
+../app/src/task_lcd.c:171:6:task_lcd_update	24	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+../Core/Src/eeprom.c:107:6:eeprom_write_byte	1
+../Core/Src/eeprom.c:112:9:eeprom_read_byte	1
+../Core/Src/eeprom.c:118:6:eeprom_save_config	2
+../Core/Src/eeprom.c:141:6:eeprom_load_config	9
+../Core/Src/eeprom.c:168:6:eeprom_test	3

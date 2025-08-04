@@ -1,0 +1,9 @@
+../Core/Src/i2c_lcd.c:174:6:HAL_I2C_MasterTxCpltCallback	2
+../Core/Src/i2c_lcd.c:181:13:lcd_send_internal	5
+../Core/Src/i2c_lcd.c:194:6:lcd_send_cmd	1
+../Core/Src/i2c_lcd.c:198:6:lcd_send_data	1
+../Core/Src/i2c_lcd.c:202:6:lcd_put_cur	2
+../Core/Src/i2c_lcd.c:206:6:lcd_clear	1
+../Core/Src/i2c_lcd.c:211:6:lcd_init	1
+../Core/Src/i2c_lcd.c:228:6:lcd_print_if_changed	6
+../Core/Src/i2c_lcd.c:246:6:lcd_continue_dma	5
